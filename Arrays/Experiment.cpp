@@ -25,6 +25,14 @@ int main(){
     cout << third[i] << endl;
   }
   
+  char ch [5]={'A','s','h','a','r'};
+  for (int i = 0; i < 5; i++)
+  {
+    cout<< ch[i] << " ";
+  }
+  
+   cout << endl;
+   
 
     return 0;
 }
